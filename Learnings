@@ -1,0 +1,100 @@
+- Azure SQL Server Elastic Pool 
+ - Joins - left, right, full outer, self, inner, cross
+ - Stored Procedures
+ - Temporary tables
+ - User defined functions - Scaler, Tabular valued
+ - Sub-query 
+ - Union, Union All, Intersect
+ - Indexing - Clustered, non-clustered, columnar stored and Heap
+ - Common Table Expression
+
+
+ - Azure storage overview
+ - Introduction to Storage Account
+ - Different redundancy options for storage account
+	- Local Redundant Storage (LRS)
+	- Zone Redundant Storage (ZRS)
+	- Geo Redundant Storage (GRS)
+	- Geo Zone Redundant Storage (GZRS)
+ - Read Access/ Read Replicas in Geo and Geo Zone Redundant
+ - Failover conditions
+ - Cross tenant replication
+ - Access Tier 
+	- Hot
+	- Cool
+	- Cold
+	- Archive
+ - Overview of Blob Storage and Gen2 Storage
+ - Azure File Share
+ - Azure tables
+ - Costing
+	- Azure Pricing Calculator
+	- Azure Total Cost of Ownership Calculator
+
+ - Various access methods
+	- Access keys
+	- Shared Access Signature
+	- Identity Access Management
+ - Discussion about the various tools used by data engineers
+ - Introduction to Azure Data Factory
+ - The various activities involved in data engineering
+	- Extract
+	- Transform
+	- Load
+ - Components of ADF:
+	- Pipeline
+	- Activities
+	- Datasets
+	- Linked Services
+	- Integration Runtime
+	- Data Flow
+ - Types of Integration Runtime
+	- Azure Auto Resolve
+	- Self Hosted
+	- Azure SSIS
+	- Airflow (Preview)
+ - Hands-on with Azure Data Factory
+
+ - Data - factual information, can be structered(table), semi-structured(JSON, YAML, Key-Value) or unstructured(Media)
+ - Database (DBMS) - collection of data
+ - E-R Diagram
+ - Normalization
+ - Denormalization
+ - Case Study on E-R Diagram
+ - Case Study on Normalization
+ - Dimension Modelling (Star, Snowflake)
+ - SCD (Slowly Changing Dimensions) 
+
+ - Overview of big data (4Vs)
+ - Types of data - structured, semi-structured and unstructured
+ - Batch and Stream Processing
+ - Parallel Processing/ Distributive Computing
+ - Different platforms - HADOOP and Spark
+ - Data Warehouse
+ - Data Lake
+ - Data Lakehouse
+ - Various Azure certifications
+ - Overview of Cloud
+ - Types of Clouds - Public, Private and Hybrid
+ - Models of Cloud - IaaS, Paas and Saas
+ - Shared Responsibility Model
+ - Serverless Computing - Azure Function and Azure Logic app
+ - Azure Architecture: 
+	Region
+	Region Pair
+ 	Availability Zones 
+	Azure Subscription
+	Azure Resource Manager
+	Azure resources
+
+- Intro to sql
+- Schemas 
+- DDL Statements
+- Constraints
+- ER Modelling
+- DCL
+- DML
+- Order of Execution
+- Filtering
+- Grouping data - using Having clause
+
