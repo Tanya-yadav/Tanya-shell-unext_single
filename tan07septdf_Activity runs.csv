@@ -1,0 +1,2 @@
+"Activity name","Activity status","Error","Run start","Duration","Integration runtime","User properties","Activity run ID","Activity type","Log"
+"Web1","Succeeded","","9/7/2023, 2:40:31 PM","3s","AutoResolveIntegrationRuntime (East US)","{}","a9035cbb-4b93-4986-b4df-411e765572ff","WebActivity",""
